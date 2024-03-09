@@ -1,0 +1,7 @@
+0 Birch Forest
+1 Dark Forest
+2 Desert
+3 Forest
+4 Jungle
+5 Plains
+6 Snowy plains
